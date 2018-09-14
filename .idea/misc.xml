@@ -2,11 +2,12 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/java4" />
+    <file type="web" url="file://$PROJECT_DIR$/struts4" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/java4/pom.xml" />
+        <option value="$PROJECT_DIR$/struts4/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java4" />
+        <module name="struts4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java4" target="1.7" />
       <module name="ssh4" target="1.5" />
-      <module name="struts4" target="1.5" />
+      <module name="struts4" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
